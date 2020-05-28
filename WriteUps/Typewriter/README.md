@@ -8,7 +8,7 @@ Oh no! I thought I typed down the correct flag for this problem on my typewriter
 
 Awalnya saya kira flag di encode menggunakan vigenere cipher, setelah mencoba ternyata tidak ketemu. Lalu ketika saya melihat kata 'zpezy' pasti berasal dari 'tjctf' sehingga saya pikir menggunakan metode substitusi. Lalu beberapa hari kemudian diberikan hint mengenai metode substitusinya. `a menjadi q, b menjadi w, c menjadi e`, ketika saya melihat saya langsung berpikir bahwa key yang digunakan adalah `qwertyuiopasdfghjklzxcvbnm`. Ketika saya decode menggunakan tools online, flagnya ketemu.
 
-![flag](./flag)
+![flag](./flag.png)
 
 ## Flag
 
