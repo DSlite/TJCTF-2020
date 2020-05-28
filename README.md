@@ -41,10 +41,10 @@ Problem | Points | Category
 
 ## Score Progression
 
-![score](./WriteUps/score.png)
+![score](./score.png)
 
 ## Rank
 
-![rank](./WriteUps/rank.png)
+![rank](./rank.png)
 
 
